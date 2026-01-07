@@ -19,7 +19,7 @@ The objective of this project is to design and develop a Power BI dashboard that
 Netflix
 <img width="1382" height="777" alt="image" src="https://github.com/user-attachments/assets/86df7ef5-08b9-4ee0-a1aa-bd3dc7606e4f" />
 Amazon
-<img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/514d74bc-4345-4450-bddf-cc2c5a453502" />
+<img width="1382" height="778" alt="image" src="https://github.com/user-attachments/assets/0f95e9fa-e20c-4dba-9832-dd560e9d28b5" />
 Hotstar
 <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/ad04184d-7ce9-443b-978c-6a03c308bb31" />
 ## Project insight:
