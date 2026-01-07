@@ -8,8 +8,8 @@ The objective of this project is to design and develop a Power BI dashboard that
 •	Enables trend analysis for content growth over time
 ## Dataset:
 1. <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">Netflix </a>
-2. Amazon - <https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/>
-3. Disnip+ Hotstar - <https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows/>
+2. <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows">Amazon </a> 
+3. <a href="https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows">Disnip+ Hotstar </a>
 ## Process:
 1.	Load Data & Design Data Model – Imported the dataset into Power BI and structured an efficient data model.
 2.	Data Cleaning with Power Query – Cleaned and transformed the data by analysis data types (dates, numbers, text), removing duplicates, renaming columns, and ensuring consistent formatting across all fields.
