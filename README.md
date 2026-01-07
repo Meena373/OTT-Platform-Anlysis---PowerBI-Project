@@ -1,4 +1,4 @@
-# OTT-Platform-Anlysis---PowerBI-Project
+# OTT-Platform-Anlysis---PowerBI Project
 ## Project objective:
 The objective of this project is to design and develop a Power BI dashboard that:
 •	Analyzes OTT content catalogs across multiple platforms such as Netflix, Amazon, Disnip+ Hotstar.
@@ -34,6 +34,9 @@ Country-wise content availability visualized using an **interactive map**.
 Release year trend analysis showing OTT content growth over time **(Area Chart).**
 Interactive slicers for content type, genre, title, and duration to enable detailed exploration.
 Year range slider to analyze content trends across different time periods.
+## Conclusions:
+The OTT Content Analytics Dashboard shows that movies make up the majority of OTT platform libraries. TV shows account for a smaller yet significant share. This indicates a strong focus on on-demand movie consumption. The rating-wise distribution indicates that most content is targeted toward general and teenage audiences. The sharp increase in titles released in recent years highlights rapid platform growth and rising competition. Geographical analysis shows that content is sourced from multiple countries. Overall, the dashboard clearly illustrates how Power BI can change OTT data into actionable insights for understanding content strategy, targeting audiences, and tracking platform growth trends.
+
 
 
 
