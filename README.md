@@ -17,9 +17,7 @@ The objective of this project is to design and develop a Power BI dashboard that
 4.	Interactive Dashboard Development – Built an interactive Power BI dashboard using KPIs, slicers, and different kind of visuals including bar charts, column charts, area charts, and donut charts for effective analysis.
 ## Dashboard:
 Netflix
-
-<img width="1377" height="777" alt="image" src="https://github.com/user-attachments/assets/54c2c946-b4c9-4e52-9493-c3f11dace990" />
-
+<img width="1382" height="780" alt="image" src="https://github.com/user-attachments/assets/b73ccdaf-10f3-4553-baaa-7b1445b7d3dd" />
 Amazon
 <img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/514d74bc-4345-4450-bddf-cc2c5a453502" />
 Hotstar
