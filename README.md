@@ -6,3 +6,4 @@ The objective of this project is to design and develop a Power BI dashboard that
 •	Compares movies vs TV shows across platforms
 •	Provides interactive filters for platform, genre, type, and title
 •	Enables trend analysis for content growth over time
+
