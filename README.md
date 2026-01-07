@@ -7,7 +7,7 @@ The objective of this project is to design and develop a Power BI dashboard that
 •	Provides interactive filters for platform, genre, type, and title
 •	Enables trend analysis for content growth over time
 ## Dataset:
-1. Netflix - <https://www.kaggle.com/datasets/shivamb/netflix-shows/>
+1. <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">Netflix </a>
 2. Amazon - <https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/>
 3. Disnip+ Hotstar - <https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows/>
 ## Process:
