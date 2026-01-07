@@ -26,14 +26,14 @@ Hotstar
 •	The dataset includes OTT content information such as, Platform (Disney+ Hotstar, Netflix, Amazon Prime), Content type (Movie / TV Show), Genre, Age rating, Country of production, Release year, Title information.
 •	Key KPIs displayed include total number of titles, total movies and TV shows, total countries and total genres available across each OTT platform.
 •	The dashboard provides:
-o	Platform-wise navigation using buttons for Home, Hotstar, Netflix, and Amazon
-o	Genre-wise content distribution to identify dominant genres such as Animation, Action, and Comedy (Column Chart)
-o	Rating-wise content analysis highlighting different maturity ratings like TV-G, TV-PG, PG-13, and TV-14 (Bar Chart)
-o	Movies vs TV Shows contribution to the overall content library (Donut Chart)
-o	Country-wise content availability visualized using an interactive map
-o	Release year trend analysis showing OTT content growth over time (Area Chart)
-o	Interactive slicers for content type, genre, title, and duration to enable detailed exploration
-o	Year range slider to analyze content trends across different time periods
+Platform-wise navigation using buttons for Home, Hotstar, Netflix, and Amazon
+Genre-wise content distribution to identify dominant genres such as Animation, Action, and Comedy **(Column Chart)**.
+Rating-wise content analysis highlighting different maturity ratings like TV-G, TV-PG, PG-13, and TV-14 **(Bar Chart)**.
+Movies vs TV Shows contribution to the overall content library **(Donut Chart)**.
+Country-wise content availability visualized using an **interactive map**.
+Release year trend analysis showing OTT content growth over time **(Area Chart).**
+Interactive slicers for content type, genre, title, and duration to enable detailed exploration.
+Year range slider to analyze content trends across different time periods.
 
 
 
