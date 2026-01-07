@@ -21,7 +21,7 @@ Netflix
 Amazon
 <img width="1382" height="778" alt="image" src="https://github.com/user-attachments/assets/49316381-9f5a-4102-98b3-acd1472d3d80" />
 Hotstar
-<img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/ad04184d-7ce9-443b-978c-6a03c308bb31" />
+<img width="1382" height="778" alt="image" src="https://github.com/user-attachments/assets/b924431e-6b63-4b7f-aaf4-360258620f10" />
 ## Project insight:
 -	The dataset includes OTT content information such as, Platform (Disney+ Hotstar, Netflix, Amazon Prime), Content type (Movie / TV Show), Genre, Age rating, Country of production, Release year, Title information.
 -	Key KPIs displayed include total number of titles, total movies and TV shows, total countries and total genres available across each OTT platform.
