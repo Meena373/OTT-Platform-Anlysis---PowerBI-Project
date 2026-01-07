@@ -23,17 +23,17 @@ Amazon
 Hotstar
 <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/ad04184d-7ce9-443b-978c-6a03c308bb31" />
 ## Project insight:
-•	The dataset includes OTT content information such as, Platform (Disney+ Hotstar, Netflix, Amazon Prime), Content type (Movie / TV Show), Genre, Age rating, Country of production, Release year, Title information.
-•	Key KPIs displayed include total number of titles, total movies and TV shows, total countries and total genres available across each OTT platform.
-•	The dashboard provides:
-Platform-wise navigation using buttons for Home, Hotstar, Netflix, and Amazon
-Genre-wise content distribution to identify dominant genres such as Animation, Action, and Comedy **(Column Chart)**.
-Rating-wise content analysis highlighting different maturity ratings like TV-G, TV-PG, PG-13, and TV-14 **(Bar Chart)**.
-Movies vs TV Shows contribution to the overall content library **(Donut Chart)**.
-Country-wise content availability visualized using an **interactive map**.
-Release year trend analysis showing OTT content growth over time **(Area Chart).**
-Interactive slicers for content type, genre, title, and duration to enable detailed exploration.
-Year range slider to analyze content trends across different time periods.
+-	The dataset includes OTT content information such as, Platform (Disney+ Hotstar, Netflix, Amazon Prime), Content type (Movie / TV Show), Genre, Age rating, Country of production, Release year, Title information.
+-	Key KPIs displayed include total number of titles, total movies and TV shows, total countries and total genres available across each OTT platform.
+-	The dashboard provides:
+- Platform-wise navigation using buttons for Home, Hotstar, Netflix, and Amazon
+- Genre-wise content distribution to identify dominant genres such as Animation, Action, and Comedy **(Column Chart)**.
+- Rating-wise content analysis highlighting different maturity ratings like TV-G, TV-PG, PG-13, and TV-14 **(Bar Chart)**.
+- Movies vs TV Shows contribution to the overall content library **(Donut Chart)**.
+- Country-wise content availability visualized using an **interactive map**.
+- Release year trend analysis showing OTT content growth over time **(Area Chart).**
+- Interactive slicers for content type, genre, title, and duration to enable detailed exploration.
+- Year range slider to analyze content trends across different time periods.
 ## Conclusions:
 The OTT Content Analytics Dashboard shows that movies make up the majority of OTT platform libraries. TV shows account for a smaller yet significant share. This indicates a strong focus on on-demand movie consumption. The rating-wise distribution indicates that most content is targeted toward general and teenage audiences. The sharp increase in titles released in recent years highlights rapid platform growth and rising competition. Geographical analysis shows that content is sourced from multiple countries. Overall, the dashboard clearly illustrates how Power BI can change OTT data into actionable insights for understanding content strategy, targeting audiences, and tracking platform growth trends.
 
