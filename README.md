@@ -7,9 +7,9 @@ The objective of this project is to design and develop a Power BI dashboard that
 •	Provides interactive filters for platform, genre, type, and title
 •	Enables trend analysis for content growth over time
 ## Dataset:
-Netflix - https://www.kaggle.com/datasets/shivamb/netflix-shows
-Amazon - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
-Disnip+ Hotstar - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+Netflix - <https://www.kaggle.com/datasets/shivamb/netflix-shows/>
+Amazon - <https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/>
+Disnip+ Hotstar - <https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows/>
 ## Process:
 1.	Load Data & Design Data Model – Imported the dataset into Power BI and structured an efficient data model.
 2.	Data Cleaning with Power Query – Cleaned and transformed the data by analysis data types (dates, numbers, text), removing duplicates, renaming columns, and ensuring consistent formatting across all fields.
@@ -22,6 +22,20 @@ Amazon
 <img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/514d74bc-4345-4450-bddf-cc2c5a453502" />
 Hotstar
 <img width="1330" height="747" alt="image" src="https://github.com/user-attachments/assets/ad04184d-7ce9-443b-978c-6a03c308bb31" />
+## Project insight:
+•	The dataset includes OTT content information such as, Platform (Disney+ Hotstar, Netflix, Amazon Prime), Content type (Movie / TV Show), Genre, Age rating, Country of production, Release year, Title information.
+•	Key KPIs displayed include total number of titles, total movies and TV shows, total countries and total genres available across each OTT platform.
+•	The dashboard provides:
+o	Platform-wise navigation using buttons for Home, Hotstar, Netflix, and Amazon
+o	Genre-wise content distribution to identify dominant genres such as Animation, Action, and Comedy (Column Chart)
+o	Rating-wise content analysis highlighting different maturity ratings like TV-G, TV-PG, PG-13, and TV-14 (Bar Chart)
+o	Movies vs TV Shows contribution to the overall content library (Donut Chart)
+o	Country-wise content availability visualized using an interactive map
+o	Release year trend analysis showing OTT content growth over time (Area Chart)
+o	Interactive slicers for content type, genre, title, and duration to enable detailed exploration
+o	Year range slider to analyze content trends across different time periods
+
+
 
 
 
